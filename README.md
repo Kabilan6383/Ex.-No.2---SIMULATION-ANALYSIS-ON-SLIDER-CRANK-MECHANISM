@@ -32,9 +32,9 @@
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
-## Output
-
 ![Screenshot 2025-05-27 223007](https://github.com/user-attachments/assets/2594c748-3aef-4cf1-bfbc-4bae15d1b104)
+
+## Output
 
 ![Screenshot 2025-05-27 223109](https://github.com/user-attachments/assets/87d36b0f-8c97-499e-9daf-bcecde218321)
 
