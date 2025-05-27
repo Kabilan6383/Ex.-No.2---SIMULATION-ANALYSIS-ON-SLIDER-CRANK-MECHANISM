@@ -23,10 +23,7 @@
 ###  2. At C, draw CB of length 20 mm inclined at 1200 
 ###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/590ca17d-5a31-427c-816d-975478542bcd)
-
+![Screenshot 2025-05-27 222955](https://github.com/user-attachments/assets/2cc3a5e4-7f22-4545-bc4f-9898472d398d)
 
 ## Velocity diagram
 ###  Scale: 10 m/s = 100 mm (say) 
@@ -35,19 +32,20 @@
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
+![Screenshot 2025-05-27 223007](https://github.com/user-attachments/assets/2594c748-3aef-4cf1-bfbc-4bae15d1b104)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
+![Screenshot 2025-05-27 223109](https://github.com/user-attachments/assets/87d36b0f-8c97-499e-9daf-bcecde218321)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
+![Screenshot 2025-05-27 223121](https://github.com/user-attachments/assets/d289cb4e-ea03-46ab-a310-0203269854b5)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
+
 
 ## Output
 
+![Screenshot 2025-05-27 223136](https://github.com/user-attachments/assets/0f0148bb-53c3-4edc-8ce5-3b1fd8f47a1a)
 
-### Name:
-### Register Number: 
+### Name: KABILAN.P
+### Register Number: 212224040145
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
